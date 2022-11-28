@@ -1,0 +1,14 @@
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/exception/GlobalExceptionHandler.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/controller/UserController.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/entity/UserMaster.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/controller/LoginController.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/entity/UserContact.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/repository/UserMasterRepository.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/repository/UserRepository.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/security/WebSecurityConfiguration.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/UserDetailsApplication.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/service/UserService.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/security/CustomUserDetails.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/security/CustomUserDetailsService.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/entity/User.java
+/home/neosoft/Desktop/user-details-without-security/user-details/src/main/java/com/userdetails/entity/Login.java
